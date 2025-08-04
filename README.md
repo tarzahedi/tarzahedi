@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Data Scientist, currently live in Berlin, Germany.
+I am a Data Scientist ⚡, currently live in Berlin, Germany.
