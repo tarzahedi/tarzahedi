@@ -27,19 +27,6 @@ I'm especially known for:
 
 ---
 
-## 💼 Experience Highlights
-
-- 🧑‍🏫 **Data Science Teacher/TA @ Le Wagon (2023 – Present)**  
-  Taught 100+ students in an intensive bootcamp. Designed real-world ML projects and delivered hands-on Python & SQL instruction.  
-
-- 🧪 **Machine Learning Scientist @ BNUT University (2019 – 2020)**  
-  Built deep learning pipelines for biomedical applications like EEG-based emotion recognition and skin cancer detection.
-
-- 📊 **Research Assistant & Math Teacher (2015 – 2019)**  
-  Led academic research, mentored junior students, and taught statistics and math using personalized, data-informed strategies.
-
----
-
 ## 📂 Projects
 
 👁️ **Image Captioning App**  
