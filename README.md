@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a curious and thoughtful data professional who enjoys solving complex problems with practical, data-driven solutions. I bring experience in machine learning, data science education, and applied research. Whether it's building scalable pipelines, teaching future data scientists, or improving model performance — I’m passionate about turning data into real-world impact.
+I'm a curious and thoughtful data professional who enjoys solving complex problems with practical, data-driven solutions. I bring experience in machine learning, data science education, and applied research. Whether it's building scalable pipelines, teaching future data scientists, or improving model performance. I’m passionate about turning data into real-world impact.
 
 I'm especially known for:
 - 🤝 Clear communication and cross-functional collaboration
@@ -20,10 +20,10 @@ I'm especially known for:
 ## 🔧 Technical Skills
 
 **Languages & Tools:**
-`Python`, `SQL`, `MATLAB`, `Google Cloud`, `Docker`, `Git`, `Prefect`, `FastAPI`, `BigQuery`, `PySpark`
+`Python`, `Pandas`, `SQL`, `MATLAB`, `Google Cloud`, `Docker`, `Git`, `Prefect`, `FastAPI`, `BigQuery`, `PySpark`, `seaborn`
 
 **Machine Learning:**
-`scikit-learn`, `TensorFlow`, `Deep Learning`, `MLOps`, `NLP`, `LLM`, `Model Evaluation`
+`scikit-learn`, `TensorFlow`, `Deep Learning`, `MLOps`, `NLP`, `LLM`, `Model Evaluation`, `Keras`
 
 ---
 
